@@ -1,9 +1,9 @@
 ---
 title: Example Blog
 description: This is an example blog post
-publishDate: Saturday, July 31 2021
+publishDate: Friday September 17, 2021
 permalink: https://example.com/blog/example-blog
-author: "Jaydan Urwin"
+author: "JHines"
 heroImage: "https://americanshootingjournal.com/img/AMLogo.png"
 alt: Trees in the mountains
 layout: "../../layouts/BlogPostLayout.astro"
