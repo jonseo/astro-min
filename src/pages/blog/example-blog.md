@@ -1,6 +1,6 @@
 ---
 title: About Us
-description: This is an example blog post
+description: This is what American SJ is about.
 publishDate: Friday September 17, 2021
 permalink: https://example.com/blog/example-blog
 author: "JHines"
