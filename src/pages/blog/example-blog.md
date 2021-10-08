@@ -3,7 +3,7 @@ title: About Us
 description: This is what American SJ is about.
 publishDate: Friday September 17, 2021
 permalink: https://example.com/blog/example-blog
-author: "JHines"
+author: "JDog"
 heroImage: "https://americanshootingjournal.com/img/AMLogo.png"
 alt: About Us
 layout: "../../layouts/BlogPostLayout.astro"
