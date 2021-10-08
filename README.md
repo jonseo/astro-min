@@ -2,7 +2,7 @@
 
 # astro-minimal-starter
 
-## [Demo Site](https://astro-minimal-starter.netlify.app/)
+## [Demo Site](https://astromin.netlify.app/)
 
 Hats off to Jaydan Urwin for this repo that I have forked.
 
