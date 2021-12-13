@@ -27,15 +27,15 @@ Here is Moz’s definition of their keyword difficulty – Moz’s Difficulty sc
 SemRush is considered one of the leading keyword research tools. Yes, for other things like competitive research and filtering by search intent, it is a beast to be reckon with. Unfortunately, for this particular simple task theres not much to show but the simple filtering of keyword difficulty level which SemRush normalizes their numbers by the percentile.
 Here is SemRush KD numbers (percentile) broken down:
 
-There are 3 difficulty levels:
+<strong>3 difficulty levels:</strong>
 
-Above 80%: High Difficulty
+<i>Above 80%: High Difficulty</i>
 In order to rank for a keyword with difficulty over 80%, you would need to invest in SEO and link building practices. If you are working with a brand new site, these keyword targets most likely would not be worth your time.
 
-From 60%-80%: Medium Difficulty
+<i>From 60%-80%: Medium Difficulty</i>
 Getting on the first page for keywords in this range won’t be easy, but it is more realistic to target a keyword in this range compared to a keyword over 80%, especially if your website has some authority in your market.
 
-Below 60%: Low Difficulty
+<i>Below 60%: Low Difficulty</i>
 These keywords are the easiest to rank for but the hardest to find. Keywords with difficulty below 60% that also have steady search volume represent your best opportunities for ranking your pages with SEO.
 
 <strong>Opportunity Scores</strong>
