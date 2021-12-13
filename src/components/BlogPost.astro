@@ -10,7 +10,7 @@ const { title, author, publishDate, heroImage, alt } = Astro.props;
 ---
 
 <article class="post-content__article">
-    {heroImage && <img width="420" height="320" class="post-main__img" loading="lazy" src={heroImage} alt={alt} />}
+    {heroImage && <img width="200" class="post-main__img" loading="lazy" src={heroImage} alt={alt} />}
     <h1>{title}</h1>
     <time>{publishDate}</time>
     <slot />
