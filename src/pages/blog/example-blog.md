@@ -2,9 +2,9 @@
 title: What I do
 description: This is what I do to help businesses grow.
 publishDate: Monday December 13, 2021
-permalink: https://example.com/blog/example-blog
+permalink: https://astromin.netlify.app/blog/example-blog
 author: "JDog"
-heroImage: "https://americanshootingjournal.com/img/AMLogo.png"
+heroImage: "https://astromin.netlify.app/assets/blog/example-blog/spidermarket.jpg"
 alt: About Us
 layout: "../../layouts/BlogPostLayout.astro"
 ---
