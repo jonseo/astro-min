@@ -19,6 +19,7 @@ Moz has multiple ways to view the keyword lists and in order to get this particu
 Here is Moz’s definition of their keyword difficulty – Moz’s Difficulty score takes into account the Page Authority (PA) and Domain Authority (DA) scores of the results ranking on the first page of Google’s search engine for the given query. It also intelligently modifies for projected click-through-rate (CTR) of a given page (putting more weight on high-ranking, more visible pages and less on low-ranking, less visible pages). The algorithm also accounts for newer pages on powerful domains that may have DA scores but not yet assigned PA values.
 
 SemRush
+
 <img src="https://spidermarket2.files.wordpress.com/2020/11/semrush.png">
 
 SemRush is considered one of the leading keyword research tools. Yes, for other things like competitive research and filtering by search intent, it is a beast to be reckon with. Unfortunately, for this particular simple task theres not much to show but the simple filtering of keyword difficulty level which SemRush normalizes their numbers by the percentile.
