@@ -14,6 +14,7 @@ One of the best method for seeing how much potential a topic is worth going afte
 What is cool about Ahrefs is that their keyword tools also gives you an estimated clicks amount from the search result page. Their Keyword difficulty numbers represent the numbers of back links the specific article has pointing to it. Such as a KD of 10 is an estimated 10 links, KD 20 is 20 links, etc…
 
 Moz Keyword Research
+
 <img src="https://spidermarket2.files.wordpress.com/2020/11/mozkw.png">
 
 Moz has multiple ways to view the keyword lists and in order to get this particular view, you would need to create a list and append the topic keywords to it. Their “organic click-thru-rate” is the equivalent to Ahrefs clicks. The differences is that Moz gives the numbers in percentile. (The higher the better!)
