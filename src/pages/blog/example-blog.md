@@ -5,7 +5,7 @@ publishDate: Monday December 13, 2021
 permalink: https://astromin.netlify.app/blog/example-blog
 author: "JDog"
 heroImage: "https://astromin.netlify.app/assets/blog/example-blog/spidermarket.jpg"
-alt: About Us
+alt: What I Do
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
@@ -14,4 +14,5 @@ Hi I’m Jon also known as J-Dogs and I currently run Digital Strategies at Medi
 If you need more information, you can contact me on @JonSEM on Twitter.
 
 Clients I have worked with:
+<br/>
 <img src="https://spidermarket.files.wordpress.com/2009/05/mylogos.png">
