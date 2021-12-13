@@ -8,6 +8,7 @@ This approach is not for the Python users or Excel Ninja’s out there. Its for 
 
 Keywords Difficulty and Search Volume
 One of the best method for seeing how much potential a topic is worth going after, is by filtering the keywords difficulty level and search volume. Each respective tools have this featured embedded, how accurate are the numbers this is beyond the scope of this article. Here have a look:
+
 <img src="https://spidermarket2.files.wordpress.com/2020/11/ahrefs-1.png"><br/>
 
 What is cool about Ahrefs is that their keyword tools also gives you an estimated clicks amount from the search result page. Their Keyword difficulty numbers represent the numbers of back links the specific article has pointing to it. Such as a KD of 10 is an estimated 10 links, KD 20 is 20 links, etc…
